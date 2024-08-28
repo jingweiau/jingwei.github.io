@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jingwei Zhang 张经纬
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jing-way Zhang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jingwei
+last_name: Zhang
 
 # Status emoji
 status:
@@ -20,69 +20,59 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Tasmania
+    url: https://www.utas.edu.au/built-digital-natural/people/geography-and-spatial-sciences/hdr-student-profiles/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'jingwei.zhang@utas.edu.au'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://x.com/Jingwei18687032
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jingwei-zhang-771b641b2/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com.au/citations?user=YzpJ0PUAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
-
+    url: https://orcid.org/0000-0001-9060-3689
+  - icon: brands/github
+    url: https://github.com/jingweiau
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Southern Ocean dynamics 
+  - Physical Oceanography  
+  - Sea ice-Ocean interactions 
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Physical Oceanography
+    institution: University of Tasmania
+    date_start: 2020-04-01
+    date_end: 2024-09-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _The response of Southern Ocean to recent changes in freshwater fluxes_. Supervised by Dr Xuebin Zhang and Prof Matt King. Presented papers at 8 national and international conferences, resulting in contributions as the first author to 1 published journal paper, 2 papers currently under internal review, and 2 papers in preparation.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Physical Oceanography and Antarctic Science
+    institution: University of Tasmania
+    date_start: 2015-07-01
+    date_end: 2019-12-01
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+      2+2 Bachelor joint program 
+      GPA: 6.84/7.0
+      First Class Honors 
+  - area: BSc Physical Oceanography and Antarctic Science
     institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-07-01
+    date_end: 2019-12-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      2+2 Bachelor joint program
+      First Class Honors  
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -183,4 +173,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jingwei Zhang is a final year PhD candidate in Physical Oceanography working at the University of Tasmania (UTAS) and Commonwealth Scientific and Industrial Research Organisation (CSIRO) in Hobart, Tasmania. His work uses numerical models (ocean and sea ice), observations, and theory to understand the interactions between Antarctica, sea ice, and ocean and their roles in our changing climate. 
+• Physical Oceanography • Southern Ocean dynamics • Sea ice-Ocean modelling • Antarctic meltwater • Climate variability • Climate model coupling • Polar and climate science • Tidal modelling
