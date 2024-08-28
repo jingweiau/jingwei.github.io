@@ -52,7 +52,7 @@ education:
   - area: PhD Physical Oceanography
     institution: University of Tasmania
     date_start: 2020-04-01
-    date_end: 2024-09-31
+    date_end: 2024-09-30
     summary: |
       Thesis on _The response of Southern Ocean to recent changes in freshwater fluxes_. Supervised by Dr Xuebin Zhang and Prof Matt King. Presented papers at 8 national and international conferences, resulting in contributions as the first author to 1 published journal paper, 2 papers currently under internal review, and 2 papers in preparation.
     button:
